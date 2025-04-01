@@ -26,8 +26,4 @@ Used drill-through, drill-down, and drill-up techniques for deep data exploratio
 
 Added tooltips and slicers to enhance user experience.
 
-✅ Performance Optimization
 
-Applied aggregations, indexing, and query reduction techniques for faster report performance.
-
-Used optimized DAX functions to improve calculation efficiency.
